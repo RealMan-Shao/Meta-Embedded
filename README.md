@@ -9,7 +9,7 @@ With the aim of enhancing comprehension and facilitating updates, this revision 
 1. adjust level of board related files(hex config, ChibiOS, APIs), I hope to put them into one folder based on different board types(A&C). We will not modify these files too often.
 2. delete some vision filter.
 3. find some wrong use of name SDK
-4. suggestion: define branch naming rules
+4. suggestion: define branch naming rules (SP24beta_XXX, FA23stable_XXX)
 5. useful notes:
 Do you have to choose between SDK and API?
 
