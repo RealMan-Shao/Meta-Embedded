@@ -3,7 +3,7 @@ With the aim of enhancing comprehension and facilitating updates, this revision 
 
 ## Log
 3/1/2024
-first modification
+1. first modification
 
 3/14/2024
 1. adjust level of board related files(hex config, ChibiOS, APIs), I hope to put them into one folder based on different board types(A&C). We will not modify these files too often.
